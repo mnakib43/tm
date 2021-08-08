@@ -1,0 +1,68 @@
+/*font-family: 'Playfair Display SC', serif;*/
+
+body{ font-family: 'Playfair Display SC', serif;
+ font-size: 15px;
+ font-weight: 400;
+ color: #ffffff;
+
+ }
+header{ background-color: #290000; 
+ padding: 20px 0;
+ }
+
+.menu ul li a{ margin-left: 25px;
+  font-size:18px ;
+  font-weight: 400; 
+ color:#ffffff !important ; }
+.menu ul li a:hover{ background-color: #76c38f;
+   }
+
+.slider{background-color:#290000 ;
+ padding-top: 65px;
+ padding-bottom: 65px;
+  }
+.gg{ margin-top: 85px;  }
+.cid{ bottom: -64px !important; }
+
+/*servvice start*/
+.s_main{ background-color:#660000 ; }
+.service_01{ padding: 50px 0; 
+ background-color: #660000;
+ }
+.service_02{ margin: 44px  ;
+	border: 1px solid ;
+ background-color: white;
+ display: inline-block; }
+
+.service_02 h2{ color: #333333 !important ; }
+.service_02 p{ color: #333333 !important ; }
+.s-img{ margin-left: -1px; }
+.tkl{ margin-left: 2px; }
+
+/*work start */
+.gz01{ margin-right: 70px;
+  display:inline-block ;
+   border-radius: 25px;
+  background: #353535;
+  padding: 20px; 
+}
+.work{ 
+  background-color:#660000 ; }
+
+
+.ab_img{  display: inline-block;
+    padding:50px 0 ;}
+
+.ab_img{ margin: 20px 43px  !important; }   
+
+
+
+.f_t{ background-color: #303030;
+ padding: 70px 0; }
+.gt{ color: white;
+  letter-spacing: 1px; }
+.f_2 p a { color: white;
+text-decoration: none;
+ }
+
+
